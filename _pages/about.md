@@ -11,7 +11,13 @@ This is the front page of a website that is powered by the [academicpages templa
 
 Test Figure:
 <img src='../images/site-logo.png'>
+</img>
+
+<img src='/images/500x300.png'>
+</img>
+
 Test Figure End
+
 
 Test Video:
 <video src="../images/TEST.mp4" autoplay="true" controls="controls" width="800" height="600">
