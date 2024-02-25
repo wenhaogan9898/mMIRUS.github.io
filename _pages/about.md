@@ -16,7 +16,7 @@ Test Figure End
 
 
 Test Video:
-<video src="./images/TEST.mp4" autoplay="true" controls="controls" width="800" height="600">
+<video src="./images/BIG.mp4" autoplay="true" controls="controls" width="800" height="600">
 </video>
 Test Video End
 
